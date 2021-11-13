@@ -8,8 +8,8 @@ The library will work with SDL2 and opengl3
 ## Instalation
 Install in your system SDL2 and opengl  
 
-In your proyect, create a ´lib´ folder and put the folder there  
-Then, use ´make´ to generate the static library  
+In your proyect, create a `lib` folder and put the folder there  
+Then, use `make` to generate the static library  
 Ones done that, include the library in your code and in your makefile.  
 You will need dependencies, so make sure you link the correct ones
 
