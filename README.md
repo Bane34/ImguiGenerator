@@ -13,7 +13,7 @@ Then, use `make` to generate the static library
 Ones done that, include the library in your code and in your makefile.  
 You will need dependencies, so make sure you link the correct ones
 
-**Linking example**: `-L./lib/imgui -lSDL2 -lSDL2main -lz -lGL -ldl -limgui`
+**Linking example**: `-L./lib/imgui -lSDL2 -lSDL2main -lz -lGL -limgui -ldl`
 
 ## Implementing in the code
 To use the library just include the respective headers
